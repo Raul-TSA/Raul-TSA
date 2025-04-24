@@ -9,7 +9,6 @@ Building intuitive healthcare applications that turn complex medical data into t
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [TechStackApps](http://techstackapps.com/portfolio)
 * ✉️  You can contact me at [hello@techstackapps.com](mailto:hello@techstackapps.com)
-* 🚀  I'm currently working on [Fasten medical aggregator](http://github.com/fastenhealth/fasten-onprem/tree/main)
 * 🧠  I'm consolidating my Angular skills
 * 🤝  I'm open to collaborating on healthcare projects through TechStackApps
 * ⚡  Improve people's live through technology
